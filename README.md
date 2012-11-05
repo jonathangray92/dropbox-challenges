@@ -3,11 +3,11 @@ dropbox-challenges
 
 Run instructions
 ----------------
-./challenge3 < [input]
+python challenge3.py < [input]
 
 e.g.
 
-./challenge3 < challenge3.input2
+python challenge3.py < challenge3.input2
 
 Problem description
 -------------------
